@@ -19,10 +19,4 @@ import HeaderView from './components/layout/HeaderView.vue'
   display: flex;
   flex-direction: column;
 }
-
-@media (min-width: 1024px) {
-  header {
-    /* padding-right: calc(var(--section-gap) / 2); */
-  }
-}
 </style>
